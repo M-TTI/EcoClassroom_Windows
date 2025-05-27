@@ -12,7 +12,7 @@ obj/
 *.cache
 *.tmp
 
-# Base de données locale (optionnel - voir note ci-dessous)
+# Base de données locale
 school_transport.db
 *.db
 
@@ -26,12 +26,9 @@ publish/
 Thumbs.db
 .DS_Store
 
-# NuGet packages (si non commités)
+# NuGet packages
 packages/
 *.nupkg
 
 # Fichiers de configuration locale
 appsettings.local.json
-
-# Base de Donnees
-*.db
