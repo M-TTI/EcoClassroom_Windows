@@ -1,0 +1,37 @@
+# Fichiers de compilation
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Fichiers Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.tmp
+
+# Base de données locale (optionnel - voir note ci-dessous)
+school_transport.db
+*.db
+
+# Fichiers de publication
+publish/
+*.zip
+
+# Fichiers temporaires
+*.log
+*.temp
+Thumbs.db
+.DS_Store
+
+# NuGet packages (si non commités)
+packages/
+*.nupkg
+
+# Fichiers de configuration locale
+appsettings.local.json
+
+# Base de Donnees
+*.db
