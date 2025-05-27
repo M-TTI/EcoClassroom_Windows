@@ -5,7 +5,7 @@ Application Windows Forms pour gérer les présences et modes de transport des �
 ## 🚀 Build & Installation
 
 ### Prérequis
-- .NET 6.0 SDK
+- .NET 8.0 SDK
 - Visual Studio 2022 (ou Visual Studio Code)
 
 ### Build depuis les sources
