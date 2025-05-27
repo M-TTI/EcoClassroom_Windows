@@ -37,8 +37,8 @@ dotnet publish -c Release -r win-x64 --self-contained -o ./publish-standalone
 
 ### Localisation des fichiers
 
-- **Debug :** `bin/Debug/net6.0/`
-- **Release :** `bin/Release/net6.0/`
+- **Debug :** `bin/Debug/net8.0/`
+- **Release :** `bin/Release/net8.0/`
 - **Publish :** `./publish/` ou `./publish-standalone/`
 
 ### Packages NuGet utilisés
