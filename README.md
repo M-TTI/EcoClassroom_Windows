@@ -13,7 +13,7 @@ Application Windows Forms pour gérer les présences et modes de transport des �
 ```bash
 # Cloner le repository
 git clone [url-du-repo]
-cd GestionTransportScolaire
+cd EcoClassroom_Windows
 
 # Restaurer les packages NuGet
 dotnet restore
@@ -49,6 +49,6 @@ dotnet publish -c Release -r win-x64 --self-contained -o ./publish-standalone
 
 ## 📦 Distribution
 
-L'application génère automatiquement sa base de données SQLite (`school_transport.db`) au premier lancement.
+L'application génère automatiquement sa base de données SQLite (`EcoClassroom.db`) au premier lancement.
 
 Pour distribuer : copiez tout le dossier de sortie vers le PC cible.
