@@ -1,0 +1,1 @@
+Les diagrammes sont fournis en SVG, n'hestiez pas a zoomer (surtout pour le diagramme de classe)
