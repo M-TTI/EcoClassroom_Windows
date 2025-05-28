@@ -1,11 +1,11 @@
-# Gestion Transport Scolaire
+# EcoClassroom_Windows
 
 Application Windows Forms pour gérer les présences et modes de transport des élèves.
 
 ## 🚀 Build & Installation
 
 ### Prérequis
-- .NET 6.0 SDK
+- .NET 8.0 SDK
 - Visual Studio 2022 (ou Visual Studio Code)
 
 ### Build depuis les sources
@@ -37,8 +37,8 @@ dotnet publish -c Release -r win-x64 --self-contained -o ./publish-standalone
 
 ### Localisation des fichiers
 
-- **Debug :** `bin/Debug/net6.0/`
-- **Release :** `bin/Release/net6.0/`
+- **Debug :** `bin/Debug/net8.0/`
+- **Release :** `bin/Release/net8.0/`
 - **Publish :** `./publish/` ou `./publish-standalone/`
 
 ### Packages NuGet utilisés
